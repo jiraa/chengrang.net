@@ -1,0 +1,25 @@
+body{
+  background-color: #eee;
+}
+.music-box{
+	width:320px;
+	height:480px;
+}
+.iphone-display div.jp-audio{
+	position:absolute;
+}
+.music-box{
+	position:relative;
+	z-index:9999;
+	padding:15px 0 0 0;
+}
+.iphone-display .inner{
+	height:370px;
+	margin:0;
+}
+.content{
+	opacity:1;
+	background:none;
+	margin:0;
+	padding:0;
+}

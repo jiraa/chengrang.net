@@ -1,0 +1,14 @@
+.iphone-headline, .iphone-icons-container, .iphone-dock, .iphone-home, .iphone-black-bg, .iphone-dynamic, .iphone-camera, .iphone-voice-minus, .iphone-voice-plus, .iphone-voice-toogle, .iphone-power-button, .iphone-light-gradient, {
+	display:none;
+}
+html{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+body{
+	width: 100%;
+	height: 100%;
+	background: url('../image/2.jpg') no-repeat top center;
+	background-size: cover;
+}
